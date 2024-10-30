@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Patricio Campos** ([@pcurz](https://github.com/pcurz))!
+# 👋 Hello, I'm **Patricio**!
 
 Welcome! I am pursuing a **Bachelor's degree in Computer Science** from 🇨🇱 Talca, Chile, currently in my 5th year at the **Universidad Católica del Maule**. I am passionate about **programming, automation, and building impactful solutions** that can make a difference.
 
