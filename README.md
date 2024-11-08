@@ -33,7 +33,12 @@ Welcome! I am pursuing a **Bachelor's degree in Computer Science** from 🇨🇱
 - **Databases & Back-end Tools:**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
+- **Frameworks & Platforms:**  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 ---
 
