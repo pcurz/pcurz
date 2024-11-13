@@ -5,12 +5,6 @@ Welcome! I am pursuing a **Bachelor's degree in Computer Science** from 🇨🇱
 
 ---
 
-## 🌟 **Products I've Released**
-- **📅 [UCalendarMobile](https://play.google.com/store/apps/details?id=dev.pcurz.ucmobile) ![Play Store](https://img.shields.io/badge/Google_Play-4285F4?style=flat&logo=google-play&logoColor=white)**  
-    A **mobile app** that provides students with easy access to the **Universidad Católica del Maule's academic calendar**. The app **fetches real-time updates** from the official site to ensure users always have the latest information. Now available on the **Google Play Store**! 
-
----
-
 ## 📫 **Let's Connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/campos-p/)  
 ---
