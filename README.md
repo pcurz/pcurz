@@ -1,6 +1,7 @@
 ### Patricio Campos ([pcurz](https://github.com/pcurz))
 
-Herramientas útiles y simples. Problemas reales a soluciones funcionales.
+Builder / Product hacker.  
+Herramientas útiles y simples para problemas reales.
 
 **Portfolio y proyectos:**
 
