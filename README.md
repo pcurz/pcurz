@@ -1,6 +1,6 @@
 Builder / Product hacker.  
 Herramientas útiles y simples para problemas reales.
 Explorando tecnología, producto y creatividad.
-**Portfolio y proyectos:**
+**Portafolio y proyectos:**
 
 ## [pcurz.github.io](https://pcurz.github.io)
