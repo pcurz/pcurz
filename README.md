@@ -12,7 +12,7 @@ Portfolio personal con proyectos destacados:
 - **[cliprot]**: Sistema de generación de contenido único en tiempo real
 - **SignaTat**: Software de consentimiento digital para estudios de tatuajes  
 - **UCalendarMobile**: App móvil para calendario universitario
-- **Chile Cargo Express**: SaaS logístico (Proyecto de Titulación)
+- **Chile Cargo Express**: SaaS logístico (Proyecto de Titulo)
 
 ## Enfoque
 - **Product Hacking**: Romper problemas complejos en soluciones simples
