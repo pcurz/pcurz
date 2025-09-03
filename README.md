@@ -9,7 +9,7 @@ Desde niño metiendo manos en la computadora, hoy construyo experiencias digital
 
 ### [pcurz.github.io](https://pcurz.github.io)
 Portfolio personal con proyectos destacados:
-- **[cliprot]**: Sistema de generación de contenido único en tiempo real
+- **[cliprot]**: Canal generativo en vivo 24/7
 - **SignaTat**: Software de consentimiento digital para estudios de tatuajes  
 - **UCalendarMobile**: App móvil para calendario universitario
 - **Chile Cargo Express**: SaaS logístico (Proyecto de Titulo)
